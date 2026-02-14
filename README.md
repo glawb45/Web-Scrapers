@@ -24,7 +24,9 @@ First, install the required packages (Note: These were all done in Jupyter noteb
 
 Intention to scrape DARKO (Daily Adjusted and Regressed Kalman Operator). This is a good projection metric for a player's career trajectory, estimating their longevity. You can change the scraper to accommodate also for the following:
     - MAMBA: Time-decayed RAPM, combined with box score
+
     - RAPTOR (Robust Algorithm using Player Tracking and On/Off Ratings): Player tracking + on-off ratings to assess a player's impact
+    
     - LEBRON (Luck-adjusted player Esimate using a Box score and Real ON/Off Numbers): Accounts for factors that which might inflate/deflate a player's apparent impact (good for analyzing role players)
 
 ---
