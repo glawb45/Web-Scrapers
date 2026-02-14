@@ -1,4 +1,4 @@
-# Web-Scrapers
+# Sports Web Scrapers
 
 This was created to be a central source for the sports analytics scrapers I have created over the years — there is no specific sport focused on, although they are primarily for basketball and football data.
 
@@ -7,7 +7,7 @@ This repository is divided up into a few different sections and will be continuo
 There are scrapers using both R and Python, which I have noted below.
 
 ---
-# Python Scrapers
+## Python Scrapers
 
 First, install the required packages (Note: These were all done in Jupyter notebooks, so if you are installing in the terminal instead, remember to remove the "!")
 
