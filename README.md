@@ -6,13 +6,30 @@ This repository is divided up into a few different sections and will be continuo
 
 There are scrapers using both R and Python, which I have noted below.
 
+## Install
+To clone this repository, run the following commands and access the folder:
+
+```python
+git clone https://github.com/glawb45/Web-Scrapers.git
+```
+
+It is recommended to work out of a virtual environment, which you can create and access like below:
+
+```python
+python -m venv venv
+source venv/bin/activate
+
+# Change NBA to another folder you want to access instead
+cd NBA
+```
+
 ---
-## Python Scrapers
+# Python Scrapers
 
 First, install the required packages (Note: These were all done in Jupyter notebooks, so if you are installing in the terminal instead, remember to remove the "!")
 
 ```python
-!pip install pandas bs4 selenium webridver_manager json 
+!pip install -r requirements.txt
 
 ```
 

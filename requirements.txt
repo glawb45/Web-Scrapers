@@ -1,0 +1,6 @@
+pandas 
+bs4 
+selenium 
+webridver_manager
+requests
+seaborn
