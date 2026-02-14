@@ -20,7 +20,7 @@ First, install the required packages (Note: These were all done in Jupyter noteb
 
 ### NBA RAPM: DARKO, MAMBA, RAPTOR, LEBRON
 
-URL: [NBA RAPM](https://apanalytics.shinyapps.io/DARKO/)
+[NBA RAPM](https://apanalytics.shinyapps.io/DARKO/)
 
 Intention to scrape DARKO (Daily Adjusted and Regressed Kalman Operator). This is a good projection metric for a player's career trajectory, estimating their longevity. You can change the scraper to accommodate also for the following:
     - MAMBA: Time-decayed RAPM, combined with box score
@@ -30,5 +30,5 @@ Intention to scrape DARKO (Daily Adjusted and Regressed Kalman Operator). This i
 ---
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/gaurav-law/)
+[LinkedIn](https://www.linkedin.com/in/gaurav-law/) /
 [Twitter](https://x.com/glawb45)
